@@ -1,0 +1,32 @@
+body,html { 
+    width: 100%;
+    height: 100%;
+    background: url(http://www.cinemayek.com/wp-content/uploads/2017/11/51drK1K.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+h1{
+    color: #fff;
+    font-family: 'Signika Negative', sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.btnfind{
+    border-radius: 20px;
+    border: 10px pink;
+    box-shadow: 4px, 7px, 9px rgb(0, 0, 0, 0.5);
+}
+.btnfind:hover{
+    border-color: pink;
+}
+.buffer{
+    height: 15rem;
+}
+hr{
+    border-color: #cccaca;
+	border-width: 3px;
+	max-width: 65px;
+}
